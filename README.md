@@ -11,20 +11,20 @@ This repository is organized as follows:
   - data: Single day learning
 
 - `2dcnn_rnn.ipynb`:
-  - model architecture: 2D CNN for image processing, RNN for data processing, FC for prediction on both.
-  - data: Multiple day learning, n° of channels manages both days and RGB
+    - model architecture: 2D CNN for image processing, RNN for data processing, FC for prediction on both.
+    - data: Multiple day learning, n° of channels manages both days and RGB
 
 - `3dcnn_rnn.ipynb`:
-  - model architecture: 3D CNN for image processing, RNN for data processing, FC for prediction on both.
-  - data: Multiple day learning
+    - model architecture: 3D CNN for image processing, RNN for data processing, FC for prediction on both.
+    - data: Multiple day learning
 
 - `3dcnn_lstm_rnn.ipynb`:
-  - model architecture: 3D CNN and LSTM for image processing, RNN for data processing, FC for prediction on both.
-  - data: Multiple day learning
+    - model architecture: 3D CNN and LSTM for image processing, RNN for data processing, FC for prediction on both.
+    - data: Multiple day learning
     
 -  `lstm_rain_forecast.ipynb`:
-  - model architecture: LSTM for data processing
-  - data: weather data from csv
+    - model architecture: LSTM for data processing
+    - data: weather data from csv
 
 -  `rnn_rain_forecast.ipynb`:
   - model architecture: RNN for data processing
