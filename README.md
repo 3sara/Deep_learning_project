@@ -27,8 +27,8 @@ This repository is organized as follows:
     - data: weather data from csv
 
 -  `rnn_rain_forecast.ipynb`:
-  - model architecture: RNN for data processing
-  - data: weather data from csv
+    - model architecture: RNN for data processing
+    - data: weather data from csv
 
 - `stagione.ipynb`:
   - model architecture: 2D CNN for image processing, FC for prediction on data and precessed images.
